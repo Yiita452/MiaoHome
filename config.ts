@@ -14,7 +14,7 @@ export default {
     GithubUsername: "Yiita452",
 
     // 博客RSS订阅
-    // BlogRSS: "https://blog.0u0.ren/feed/", 
+    BlogRSS: "h", 
 
     // 博客链接
     BlogUrl: "https://blog.yiita.top",
