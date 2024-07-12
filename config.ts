@@ -48,6 +48,6 @@ export default {
         Desc: "👋 Hi! 这里是 Yiita 的主页",
     },
 
-    SiteBackground: "url(https://bu.dusays.com/2024/07/12/669123dce153f.jpg) center/cover",https: //img.truimo.com/2022/807b270630a51.jpg
+    SiteBackground: "url(https://bu.dusays.com/2024/07/12/669123dce153f.jpg) center/cover",
 
 }
