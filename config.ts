@@ -14,10 +14,10 @@ export default {
     GithubUsername: "Yiita452",
 
     // 博客RSS订阅
-    BlogRSS: "blog.yiita.top", 
+    BlogRSS: "blog.yiita.xyz", 
 
     // 博客链接
-    BlogUrl: "https://blog.yiita.top",
+    BlogUrl: "https://blog.yiita.xyz",
 
     // 油管链接
      YoutubeUrl: "https://www.youtube.com/",
