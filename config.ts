@@ -14,19 +14,19 @@ export default {
     GithubUsername: "Yiita452",
 
     // 博客RSS订阅
-    BlogRSS: "h", 
+    BlogRSS: "blog.yiita.top", 
 
     // 博客链接
     BlogUrl: "https://blog.yiita.top",
 
     // 油管链接
-    // YoutubeUrl: "https://www.youtube.com/channel/UCEDJlXVGVHClXL_ihWsAfKw",
+     YoutubeUrl: "https://www.youtube.com/",
 
     // 推特链接
-    // TwitterUrl: "https://twitter.com/MiaoMint_",
+     TwitterUrl: "https://twitter.com/",
 
     // B站UID
-    // BilibiliUid: "52625050",
+     BilibiliUid: "631447057",
 
     // 默认 /home.md 
     // null 则不显示
