@@ -2,22 +2,22 @@ export default {
 
     // 👇页面内容相关配置
     // 名字
-    Name: "Yiita",
+    Name: "Imz",
 
     // 头像
     Avatar: "https://bu.dusays.com/2024/05/29/665746219e8c5.webp",
 
     // 介绍
-    Desc: "👋 Hi! 这里是 Yiita 的主页",
+    Desc: "👋 Hi! 这里是 Imz 的主页",
 
     // Github 用户名
-    GithubUsername: "Yiita452",
+    GithubUsername: "imz-a",
 
     // 博客RSS订阅
-    BlogRSS: "blog.yiita.xyz", 
+    BlogRSS: "blog.imz.me", 
 
     // 博客链接
-    BlogUrl: "https://blog.yiita.xyz",
+    BlogUrl: "https://blog.imz.me",
 
     // 油管链接
      YoutubeUrl: "https://www.youtube.com/",
@@ -36,16 +36,16 @@ export default {
     // 网页信息
     SiteHead: {
         // 站点标题
-        Title: "YIita 的主页",
+        Title: "Imz 的主页",
 
         // 站点图标
         Favicon: "https://pic.imgdb.cn/item/661bcf1268eb9357133be4ca.png",
 
         // 站点关键词 多个使用 “,” 分割
-        KeyWords: "Yiita,Erhecy,Yiita452,主页,短链接,博客",
+        KeyWords: "Imz,Erhecy,Imz666,主页,短链接,博客",
 
         // 站点介绍
-        Desc: "👋 Hi! 这里是 Yiita 的主页",
+        Desc: "👋 Hi! 这里是 Imz 的主页",
     },
 
     SiteBackground: "url(https://bu.dusays.com/2024/07/12/669123dce153f.jpg) center/cover",
